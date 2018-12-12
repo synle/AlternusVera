@@ -8,3 +8,7 @@ San Jose State University - Fall 2018
 - Hyunwook Shin
 - Lin Cheng
 - Yu Xu
+
+
+## Professor
+- Dr. Ali Arsanjani
